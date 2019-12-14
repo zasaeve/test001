@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reservation_status: MyString
+  reservation_datetime: 2019-12-14 14:57:36
+  reservation_animals_id: MyString
+  reservation_note: MyText
+  reservation_success_time: 2019-12-14
+
+two:
+  reservation_status: MyString
+  reservation_datetime: 2019-12-14 14:57:36
+  reservation_animals_id: MyString
+  reservation_note: MyText
+  reservation_success_time: 2019-12-14

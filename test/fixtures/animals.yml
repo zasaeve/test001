@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  animal_subid: MyString
+  animal_area_pkid: 9.99
+  animal_kind: MyString
+  animal_sex: MyString
+  animal_age: MyString
+  animal_sterilization: MyString
+  animal_foundplace: MyString
+  album_file: MyString
+  on_sell: false
+  animal_status: MyString
+
+two:
+  animal_subid: MyString
+  animal_area_pkid: 9.99
+  animal_kind: MyString
+  animal_sex: MyString
+  animal_age: MyString
+  animal_sterilization: MyString
+  animal_foundplace: MyString
+  album_file: MyString
+  on_sell: false
+  animal_status: MyString
